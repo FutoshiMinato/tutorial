@@ -1,5 +1,5 @@
 Tutorial
 register add index
 pullリモートリポジトリの内容を取得する
-Work9で編集
+ブランチで編集
 
