@@ -1,4 +1,5 @@
 Tutorial
 register add index
 pullリモートリポジトリの内容を取得する
-branchから作成/hello!
+ブランチで編集
+ブランチで再編集
